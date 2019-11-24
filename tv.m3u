@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-1.png",group-title="听风免费源",CCTV1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-2.png",group-title="听风免费源",CCTV2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-3.png",group-title="听风免费源",CCTV3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-4.png",group-title="听风免费源",CCTV4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-6.png",group-title="听风免费源",CCTV6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-7.png",group-title="听风免费源",CCTV7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-8.png",group-title="听风免费源",CCTV8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-19.png",group-title="听风免费源",CCTV9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-10.png",group-title="听风免费源",CCTV10
+http://39.135.15.70:6610/PLTV/88888888/224/3221225702/1/1000.m3u8?IAS
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-11.png",group-title="听风免费源",CCTV11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-12.png",group-title="听风免费源",CCTV12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-logo="https://tingfeng-1256995490.cos.ap-beijing.myqcloud.com/CCTV-15.png",group-title="听风免费源",CCTV-15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",湖南卫视
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",江苏卫视
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",浙江卫视
+http://ivi.bupt.edu.cn/hls/zjhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",东方卫视
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",深圳卫视
+http://ivi.bupt.edu.cn/hls/szhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",山东卫视
+http://ivi.bupt.edu.cn/hls/sdhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",天津卫视
+http://ivi.bupt.edu.cn/hls/tjhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",湖北卫视
+http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",广东卫视
+http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+#EXTINF:-1 ,group-title="P教育央视卫视",辽宁卫视
+http://ivi.bupt.edu.cn/hls/lnhd.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN微电影
+http://live3.nty.tv189.com/tm-yg1wdypd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN禅文化
+http://live3.nty.tv189.com/tm-yg1cwhpd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN财经
+http://live3.nty.tv189.com/tm-yg1cjpd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN健康
+http://live3.nty.tv189.com/tm-yg1jkpd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN军事
+http://live3.nty.tv189.com/tm-yg1gzjc-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN动漫
+http://live3.nty.tv189.com/tm-yg1dmpd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN旅游
+http://live3.nty.tv189.com/tm-yg1lypd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN电影
+http://live3.nty.tv189.com/tm-yg1dypd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN财经
+http://live3.nty.tv189.com/tm-yg1sfyx-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN今古珍藏
+http://live3.nty.tv189.com/tm-yg1zypd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN动作影院
+http://live3.nty.tv189.com/tm-yg1dzyy-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN喜剧影院
+http://live3.nty.tv189.com/tm-yg1xjyy-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN情感影院
+http://live3.nty.tv189.com/tm-yg1qgyy-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN流金岁月
+http://live3.nty.tv189.com/tm-yg1scpd-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN热播剧场
+http://live3.nty.tv189.com/tm-yg1rbjc-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN电影导视
+http://live3.nty.tv189.com/tm-yg1dyds-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN精品影院
+http://live3.nty.tv189.com/tm-yg1jpyy-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN经典剧场
+http://live3.nty.tv189.com/tm-yg1jdjc-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",CIBN骄阳剧场
+http://live3.nty.tv189.com/tm-yg1jyjc-512k.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV军事评论
+http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV军旅剧场
+http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV动画王国
+http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV古装剧场
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV家庭剧场
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV惊悚悬疑
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV明星大片
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV海外剧场
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV爱情喜剧
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV精品大剧
+http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV精品电影
+http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV精品综艺
+http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV精品记录
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+#EXTINF:-1, group-title="听风免费源",IPTV金牌综艺
+http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
