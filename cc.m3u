@@ -1,0 +1,225 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="国内卫视",﻿CCTV-1
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-2
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-3
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-4
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-5
+http://ott.js.chinamobile.com/PLTV/3/224/3221227401/index.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-5+
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-6
+http://112.17.40.145/PLTV/88888888/224/3221226433/index.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-7
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-8
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-9
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-10
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-11
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-12
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-13
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-14
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-15
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV-17
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
+#EXTINF:-1 group-title="国内卫视",CCTV4k
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 group-title="国内卫视",CGTN
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
+#EXTINF:-1 group-title="国内卫视",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 group-title="国内卫视",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 group-title="国内卫视",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="国内卫视",北京卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
+#EXTINF:-1 group-title="国内卫视",东方卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
+#EXTINF:-1 group-title="国内卫视",天津卫视
+http://112.17.40.140/PLTV/88888888/224/3221226412/index.m3u8
+#EXTINF:-1 group-title="国内卫视",重庆卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000297803.m3u8
+#EXTINF:-1 group-title="国内卫视",浙江卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295503.m3u8
+#EXTINF:-1 group-title="国内卫视",江苏卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
+#EXTINF:-1 group-title="国内卫视",河北卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293403.m3u8
+#EXTINF:-1 group-title="国内卫视",河南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296103.m3u8
+#EXTINF:-1 group-title="国内卫视",湖北卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294503.m3u8
+#EXTINF:-1 group-title="国内卫视",湖南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
+#EXTINF:-1 group-title="国内卫视",广东卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
+#EXTINF:-1 group-title="国内卫视",深圳卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
+#EXTINF:-1 group-title="国内卫视",广西卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294203.m3u8
+#EXTINF:-1 group-title="国内卫视",山东卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
+#EXTINF:-1 group-title="国内卫视",江西卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000294103.m3u8
+#EXTINF:-1 group-title="国内卫视",黑龙江卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293903.m3u8
+#EXTINF:-1 group-title="国内卫视",安徽卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
+#EXTINF:-1 group-title="国内卫视",东南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000292503.m3u8
+#EXTINF:-1 group-title="国内卫视",辽宁卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000281303.m3u8
+#EXTINF:-1 group-title="国内卫视",海南卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000291503.m3u8
+#EXTINF:-1 group-title="国内卫视",四川卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000295003.m3u8
+#EXTINF:-1 group-title="国内卫视",贵州卫视
+https://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000293303.m3u8
+
+#EXTINF:-1 group-title="省内",浙江公共新闻
+http://yf.m.l.cztv.com/channels/lantian/channel07/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江钱江
+http://yf.m.l.cztv.com/channels/lantian/channel02/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江经济生活
+http://yf.m.l.cztv.com/channels/lantian/channel03/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江教育科技
+http://yf.m.l.cztv.com/channels/lantian/channel04/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江影视娱乐
+http://yf.m.l.cztv.com/channels/lantian/channel05/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江民生休闲
+http://yf.m.l.cztv.com/channels/lantian/channel06/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江少儿
+http://yf.m.l.cztv.com/channels/lantian/channel08/1080p.m3u8?
+#EXTINF:-1 group-title="省内",浙江国际
+http://yf.m.l.cztv.com/channels/lantian/channel10/1080p.m3u8?
+#EXTINF:-1 group-title="省内",杭州-1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 group-title="省内",杭州-2
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 group-title="省内",杭州-3
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 group-title="省内",杭州-4
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 group-title="省内",杭州-5
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="省内",五星体育
+http://112.17.40.47/PLTV/88888888/224/3221226582/index.m3u8
+
+#EXTINF:-1 group-title="iHOT",爱浪漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="iHOT",爱院线
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="iHOT",爱喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="iHOT",爱科幻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="iHOT",爱奇谈
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱玩具
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱电竞
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱赛车
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱世界
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230046/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱怀旧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱旅行
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱江湖
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱幼教
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱军武
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230083/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱解密
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230080/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱谍战
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱猎奇
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱历史
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱经典
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱都市
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱科学
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱时尚
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230109/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱探索
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱美食
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230115/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱家庭
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱青春
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="iHOT",爱动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
+
+#EXTINF:-1 group-title="NewTV",NewTV华数0
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228564/58960521.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场
+http://112.17.40.140/PLTV/88888888/224/3221226753/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动作电影
+http://112.17.40.145/PLTV/88888888/224/3221226747/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://112.17.40.145/PLTV/88888888/224/3221226682/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
+http://112.17.40.145/PLTV/88888888/224/3221226642/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
+http://112.17.40.145/PLTV/88888888/224/3221226656/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV海外剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229062/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV搏击
+http://112.17.40.145/PLTV/88888888/224/3221226737/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV明星大片
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229005/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
+http://112.17.40.145/PLTV/88888888/224/3221226660/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品大剧
+http://112.17.40.145/PLTV/88888888/224/3221226668/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV中国功夫
+http://112.17.40.145/PLTV/88888888/224/3221226759/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
+http://112.17.40.145/PLTV/88888888/224/3221226749/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论
+http://112.17.40.145/PLTV/88888888/224/3221226658/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV农业致富
+http://112.17.40.145/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品记录
+http://112.17.40.145/PLTV/88888888/224/3221226763/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV健康有约
+http://112.17.40.145/PLTV/88888888/224/3221226757/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229026/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
+http://112.17.40.145/PLTV/88888888/224/3221226666/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV炫舞未来
+http://112.17.40.145/PLTV/88888888/224/3221226817/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动画王国
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228998/index.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品电影
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229010/index.m3u8
